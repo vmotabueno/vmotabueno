@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vmotabueno
-- 💻I'm working in the CRM area developing automation with code and without code for a CRM system 
+- 💻I'm working in the CRM area developing automation with no code and coding for a CRM system 
 - 👀 I’m interested in cibersecurity, cloud computing and many areas of the information systems. I love read books, studying new gadgets and harry potter culture.
 - 🌱 I’m currently learning C, Java, JavaScript, HTML, CSS, PHP, SQL and Phyton.
 - 💞️ I’m looking to collaborate on computer and systems security and web development.
