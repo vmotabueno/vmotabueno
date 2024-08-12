@@ -10,7 +10,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vmotabueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </div>
 <!---
 vmotabueno/vmotabueno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
